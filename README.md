@@ -22,5 +22,6 @@ train.py的默认参数用于训练VOC数据集，直接运行train.py即可开�
 
 
 # Reference
-https://github.com/qqwweee/keras-yolo3/ //
+https://github.com/qqwweee/keras-yolo3/
+
 https://github.com/bubbliiiing/faster-rcnn-tf2
