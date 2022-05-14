@@ -19,7 +19,9 @@ train.py的默认参数用于训练VOC数据集，直接运行train.py即可开�
 在frcnn.py文件里面，修改model_path和classes_path使其对应训练好的文件；model_path对应logs文件夹下面的权值文件，classes_path是model_path对应分的类。
 运行get_map.py，评估结果保存在map_out文件夹中。
 
-
+# 模型百度网盘链接
+链接：https://pan.baidu.com/s/1fj056oT6CWvxU7rdxSroXQ 
+提取码：bjwh
 
 # Reference
 https://github.com/qqwweee/keras-yolo3/
